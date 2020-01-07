@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewRepresentation">
+<entry key="tableID" type="xstring" value="8a2bfc73-827e-49cc-b062-788d3ee963c1"/>
+<config key="curveSettings">
+<config key="Prediction (label)">
+<config key="x_values">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.005535055350553505"/>
+<entry key="2" type="xdouble" value="0.11992619926199262"/>
+<entry key="3" type="xdouble" value="0.26383763837638374"/>
+<entry key="4" type="xdouble" value="0.38191881918819187"/>
+<entry key="5" type="xdouble" value="0.466789667896679"/>
+<entry key="6" type="xdouble" value="0.5719557195571956"/>
+<entry key="7" type="xdouble" value="0.6955719557195572"/>
+<entry key="8" type="xdouble" value="0.7915129151291513"/>
+<entry key="9" type="xdouble" value="0.9059040590405905"/>
+<entry key="10" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.9482758620689655"/>
+<entry key="2" type="xdouble" value="0.9482758620689655"/>
+<entry key="3" type="xdouble" value="0.9655172413793104"/>
+<entry key="4" type="xdouble" value="0.9655172413793104"/>
+<entry key="5" type="xdouble" value="0.9655172413793104"/>
+<entry key="6" type="xdouble" value="1.0"/>
+<entry key="7" type="xdouble" value="1.0"/>
+<entry key="8" type="xdouble" value="1.0"/>
+<entry key="9" type="xdouble" value="1.0"/>
+<entry key="10" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="Prediction (label)"/>
+<entry key="area" type="xdouble" value="0.9761579081308055"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+</config>
+<entry key="enableStaggeredRendering" type="xboolean" value="true"/>
+<entry key="resizeToWindow" type="xboolean" value="true"/>
+<entry key="displayFullscreenButton" type="xboolean" value="true"/>
+<entry key="dataAreaColor" type="xstring" value="rgba(230,230,230,1.0)"/>
+<entry key="backgroundColor" type="xstring" value="rgba(255,255,255,1.0)"/>
+<entry key="gridColor" type="xstring" value="rgba(255,255,255,1.0)"/>
+<entry key="lineWidth" type="xint" value="2"/>
+<entry key="imageWidth" type="xint" value="800"/>
+<entry key="imageHeight" type="xint" value="600"/>
+<entry key="showGrid" type="xboolean" value="true"/>
+<entry key="showArea" type="xboolean" value="true"/>
+<config key="colors"/>
+<entry key="showLegend" type="xboolean" value="true"/>
+<entry key="enableControls" type="xboolean" value="true"/>
+<entry key="enableEditTitle" type="xboolean" value="true"/>
+<entry key="enableEditSubtitle" type="xboolean" value="true"/>
+<entry key="enableEditXAxisLabel" type="xboolean" value="true"/>
+<entry key="enableEditYAxisLabel" type="xboolean" value="true"/>
+<entry key="showWarningInView" type="xboolean" value="true"/>
+<entry key="hasWarnings" type="xboolean" value="false"/>
+<entry key="ignoreMissingValues" type="xboolean" value="false"/>
+</config>
